@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "task": "Finish array and object practice questions."
+  },
+  {
+    "id": 2,
+    "task": "Study useState and useEffect with examples."
+  },
+  {
+    "id": 3,
+    "task": "Create a CRUD Todo List using React."
+  },
+  {
+    "id": 4,
+    "task": "Understand App Router and folder structure."
+  },
+  {
+    "id": 5,
+    "task": "Create responsive layouts using Flexbox."
+  },
+  {
+    "id": 6,
+    "task": "Add recent web development projects."
+  },
+  {
+    "id": 7,
+    "task": "Upload the latest Todo project repository."
+  },
+  {
+    "id": 8,
+    "task": "Complete the React Router lesson."
+  },
+  {
+    "id": 9,
+    "task": "Fix localStorage and edit functionality issues."
+  },
+  {
+    "id": 10,
+    "task": "Deploy the Todo application to Vercel."
+  },
+  {
+    "id": 11,
+    "task": "today is a day"
+  }
+]
